@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sandeepstha1489" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepstha1489?logo=twitter&style=for-the-badge" alt="sandeepstha1489" /></a> </p>
 
-//- 🔭 I’m currently working on [Excel Project](https://github.com/sandeepstha/excel-project.git)
+<!-- - 🔭 I’m currently working on [Excel Project](https://github.com/sandeepstha/excel-project.git) -->
 
-- 🌱 I’m currently learning **Power BI** [Power BI](https://github.com/sandeepstha/excel-project.git)
+- 🌱 I’m currently learning ** [Power BI](https://github.com/sandeepstha/PowerBI-Project.git) **
 
 - 💬 Ask me about **Python, PHP, JAVASCRIPT**
 
