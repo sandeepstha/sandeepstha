@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Excel Project](https://github.com/sandeepstha/excel-project.git) -->
 
-- 🌱 I’m currently learning ** [Power BI](https://github.com/sandeepstha/PowerBI-Project.git) **
+- 🌱 I’m currently learning **[Power BI](https://github.com/sandeepstha/PowerBI-Project.git)**
 
 - 💬 Ask me about **Python, PHP, JAVASCRIPT**
 
